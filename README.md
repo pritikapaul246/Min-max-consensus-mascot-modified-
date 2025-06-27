@@ -1,2 +1,2 @@
-# Min-max-consensus-mascot-modified-
+# Min-max-consensus-mascot-modified
 min-max consensus using drones
