@@ -32,6 +32,7 @@ Key properties:
 - `results/` – Simulation plots
 
 ->Results & Visualizations
+
 *Based on Mascot testbed*
 
 -Consensus with leader(10 drones)
@@ -45,6 +46,7 @@ Key properties:
 
 
 *Based on paper*
+
 **Case 1**
 
 <img width="320" height="240" alt="Position-X" src="https://github.com/user-attachments/assets/3c4e895a-3123-4b05-b8b4-78de45bf6d8a" />
